@@ -1,0 +1,28 @@
+body {
+	background:red;
+	font-family: calibri;
+}
+
+h1, h2, p{
+	color: red;
+}
+
+a{
+	color: green;
+}
+
+p{
+	background: #666;
+	color: white;
+	padding: 5px;
+}
+
+.secondary {
+	background: none;
+	color: #555;
+}
+
+#special {
+	background: red;
+	color: #555;
+}
