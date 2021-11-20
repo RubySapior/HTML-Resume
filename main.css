@@ -8,7 +8,7 @@ h1, h2{
 }
 
 a{
-	color: green;
+	color: blue;
 }
 
 
@@ -16,8 +16,13 @@ a{
 	background: none;
 	color: #555;
 }
+.links {
+	background: light gray;
+	color: #555;
+	padding: 5px 0pm 5px 0px;
+}
 
 #special {
-	background: red;
-	color: #555;
+	background: #9999;
+	color: #000;
 }
